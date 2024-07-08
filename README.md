@@ -1,5 +1,5 @@
 # Google登入系統
-可使用Google、本地登入的登入系統網頁。前端使用EJS模板，CSS套用Bootstrap，
+可使用Google、本地登入的登入系統網頁。前端使用EJS模板，CSS套用Bootstrap，後端使用Express製作RESTful API、MongoDB為資料庫，使用passport套件完成Google登入，以session記錄登入用戶資料
 
 # DEMO
 ### 使用Google登入
